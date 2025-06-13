@@ -1,0 +1,12 @@
+{
+    "id": 1, 
+    "nome": "Samsung S25 ULTRA", 
+    "valor": 8500, 
+    "disponibilidade": true, 
+    "cores": [
+        "cinza", 
+        "branco", 
+        "preto", 
+        "azul"
+    ]
+}
